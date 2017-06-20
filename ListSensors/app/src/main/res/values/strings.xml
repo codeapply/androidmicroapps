@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListSensors</string>
+
+    <string name="sensor_info">Press "show sensor data" to list sensor with current readings. More information on sensor data:\r\n
+        http://developer.android.com/guide/topics/sensors/sensors_overview.html \r\n
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

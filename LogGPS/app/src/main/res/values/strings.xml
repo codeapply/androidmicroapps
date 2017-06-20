@@ -1,0 +1,5 @@
+<resources>
+    <string name="intro">Log GPS</string>
+    <string name="app_name">Log GPS</string>
+    <string name="action_settings">Settings</string>
+</resources>
